@@ -4,7 +4,6 @@
     <list default="true" id="9b115c1b-ab0b-4d2b-8b1f-4fd1192acf3f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm.js" afterPath="$PROJECT_DIR$/algorithm.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm.test.js" afterPath="$PROJECT_DIR$/algorithm.test.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/karma.conf.js" afterPath="$PROJECT_DIR$/karma.conf.js" />
     </list>
     <ignored path="sumSquareDifference.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,8 +29,8 @@
           <file leaf-file-name="algorithm.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/algorithm.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.22932917">
-                  <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+                <state vertical-scroll-proportion="0.80343217">
+                  <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
                   <folding />
                 </state>
               </provider>
@@ -44,8 +43,8 @@
           <file leaf-file-name="algorithm.test.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/algorithm.test.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.09828393">
-                  <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
+                <state vertical-scroll-proportion="0.83619344">
+                  <caret line="40" column="3" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
                   <folding />
                 </state>
               </provider>
@@ -74,9 +73,9 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="20" />
-    <option name="y" value="42" />
-    <option name="width" value="1400" />
+    <option name="x" value="75" />
+    <option name="y" value="22" />
+    <option name="width" value="1272" />
     <option name="height" value="738" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -137,7 +136,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="42" width="1400" height="738" extended-state="0" />
+    <frame x="75" y="22" width="1272" height="738" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -169,16 +168,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/algorithm.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22932917">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.80343217">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithm.test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09828393">
-          <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
+        <state vertical-scroll-proportion="0.83619344">
+          <caret line="40" column="3" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
           <folding />
         </state>
       </provider>
